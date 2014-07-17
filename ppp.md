@@ -2,6 +2,6 @@
 ##esto es
 ###bien bonito
 
-*uno
-*dos
-*tres
+* uno
+* dos
+* tres
